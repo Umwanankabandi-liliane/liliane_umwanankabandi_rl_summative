@@ -145,6 +145,3 @@ Generated outputs are stored in:
 - `results/plots/`
 - `results/tables/`
 
-## Submission Notes
-- This project includes the required custom environment, visualization, model training, evaluation, and experiment artifacts.
-- The final written report and analysis should be exported as PDF for Canvas submission.
